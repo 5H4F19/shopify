@@ -1,0 +1,26 @@
+a:hover{
+   border: none;
+   outline: none;
+}
+a:focus{
+  border: none;
+  outline: none;
+}
+.main_page{
+  background-image : url('../src/themes/XMLID_2_.png');
+	background-repeat : no-repeat;
+}
+.carousel .img{
+  height: 200px;
+  max-height: 300px;
+  
+  margin: auto;
+}
+
+.sticky {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  z-index: 3;
+  background: white;
+}
